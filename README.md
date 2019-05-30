@@ -7,5 +7,7 @@ To make things even simpler, GitMonitor offers an **AutoPull** feature, which wh
 
 ## How It Works
 GitMonitor uses a watcher service to look for when a new repository is created in the file system and this is directly added to your **Untracked Repos** section in the application.
-![UntrackedReposPage](UntrackedReposPage.PNG)
+
+>![UntrackedReposPage](UntrackedReposPage.PNG)
+
 Once you find your repository in this section, you can choose to start tracking this repository by clicking the "**+**" icon in the row corresponding to your repository.
