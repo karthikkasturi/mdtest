@@ -20,7 +20,7 @@ Once you find your repository in this section, you can choose to start tracking 
 
 Once you setup the repositories to be tracked, you can see them on the **Dashboard** page. This page contains information regarding the Repository location and branch statuses. Every repository has, next to its name a status indicator, which tells you the status of your repository. 
 
-- A <i class="circle green">green</i> indicator implies that your repository is up to date.
+- A <i class="circle green fas fa-circle">green</i> indicator implies that your repository is up to date.
 - A <i class="circle red">red</i> indicator implies that your repository is behind, meaning there are commits in a remote branch that you need to pull.
 - A <i class="circle yellow">yellow</i> indicator implies that your repository is ahead, meaning you have commits on your local machine that are yet to be pushed to the remote repository.
 
