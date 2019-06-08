@@ -16,7 +16,7 @@ Once you find your repository in this section, you can choose to start tracking 
 
 ### Dashboard Page
 
->![Dashboard page](readme_assets/Dashboard.jpg)
+>![Dashboard page](readme_assets/Dashboard.JPG)
 
 Once you setup the repositories to be tracked, you can see them on the **Dashboard** page. This page contains information regarding the Repository location and branch statuses. Every repository has, next to its name a status indicator, which tells you the status of your repository. 
 
@@ -38,12 +38,12 @@ You can stop tracking a repository by clicking the **untrack** button. You can f
 
 You can configure whether you need notifications and email notifications to be sent when there are updates in on a particular branch in a particular repository through the "Edit Repoository" page accessed by clicking  "Edit" icon on the **Dashboard** page.
 
->![EditReporitoryPage](readme_assets/EditRepositoryPage.jpg)
+>![EditReporitoryPage](readme_assets/EditRepositoryPage.JPG)
 
 When on this page, you can also select email groups that should receive the notifications for these updates. Email groups can be setup and managed from the **Email Groups** tab. 
 
 ### Settings
->![SettingsPage](readme_assets/SettingsPage.PNG)
+>![SettingsPage](readme_assets/SettingsPage.png)
 
 This page can be accessed by clicking on the "gear" icon in the top right corner. Here, you can set the following:
 - **Interval** (frequency) at which the service that keeps your tracked respositories up to date. The Interval fields accepts a numeric between 5 - 60 which is repesentative of the number of minutes after which the service will run.
